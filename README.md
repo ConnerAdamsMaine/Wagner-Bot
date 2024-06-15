@@ -11,24 +11,21 @@ Automated Moderation: Enforce server rules with automated moderation tools to ma
 Event Scheduling: Plan and organize events with integrated scheduling and reminders.
 Custom Commands: Execute a variety of custom commands specific to The Wagner Group's needs.
 Integration with FiveM: Seamlessly integrate with our operations on the CaliRP server to enhance in-game and out-of-game interactions.
+
 Installation
+
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/YourUsername/WagnerBot.git
+`git clone https://github.com/YourUsername/WagnerBot.git`
+
 Navigate to the project directory:
-bash
-Copy code
-cd WagnerBot
+`cd WagnerBot`
+
 Install dependencies:
-bash
-Copy code
-npm install
+`npm install`
 Configure your bot by editing the config.json file with your Discord server details and bot token.
+
 Start the bot:
-bash
-Copy code
-npm start
+`npm start`
 Usage
 Once the bot is running, invite it to your Discord server using your bot's invite link. Use the command prefix specified in your config.json file to interact with the bot and access its features.
 
@@ -39,4 +36,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any questions or support, please contact us at [your.email@example.com].
+For any questions or support, please contact us at support@notconner.me

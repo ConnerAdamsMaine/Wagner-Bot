@@ -22,6 +22,7 @@ Navigate to the project directory:
 
 Install dependencies:
 `npm install`
+
 Configure your bot by editing the config.json file with your Discord server details and bot token.
 
 Start the bot:
